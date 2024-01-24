@@ -1,6 +1,6 @@
 ### Hi there, I'm Alireza 👋
 
-I'm a C++ Software Developer and currently working in Arsh Games Studio as their only Game Developer wiht UE5.
+I'm a C++ Software Developer and currently working in Arsh Games Studio as their only Game Developer with UE5.
 
 ### Programming Languages and Tools I am familiar with:
 
