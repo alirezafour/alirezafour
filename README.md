@@ -6,13 +6,13 @@ I'm a C++ Software Engineer who work in game and fintech.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,linux,python,lua,cmake,visualstudio,neovim,unreal,qt,docker,jenkins" />
+    <img src="https://skillicons.dev/icons?i=cpp,linux,cmake,python,lua,visualstudio,neovim,unreal,qt,docker,jenkins" />
   </a>
 </p>
 
 ### My Stats:
 
-![Arnes GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alirezafour&show_icons=true&hide=prs&rank_icon=github&custom_title=Arnes%20GitHub%20Stats&theme=midnight-purple&include_all_commits=false)
+![Arnes GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alirezafour&show_icons=true&hide=prs&rank_icon=github&custom_title=Arnes%20GitHub%20Stats&theme=midnight-purple&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alirezafour&layout=compact&theme=midnight-purple)
 
