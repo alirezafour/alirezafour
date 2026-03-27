@@ -1,4 +1,4 @@
-### Hi there, I'm Alireza 👋
+### Hi there, I'm Alireza  
 
 I'm a Senior C++ Software Engineer who work in game and fintech.
 
